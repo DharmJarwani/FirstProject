@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DHARMENDRA\\source\\repos\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj": {}
+    "F:\\2022\\GIT\\FirstProject\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DHARMENDRA\\source\\repos\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj": {
+    "F:\\2022\\GIT\\FirstProject\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DHARMENDRA\\source\\repos\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj",
+        "projectUniqueName": "F:\\2022\\GIT\\FirstProject\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj",
         "projectName": "RestAPIcrudDEMO",
-        "projectPath": "C:\\Users\\DHARMENDRA\\source\\repos\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj",
+        "projectPath": "F:\\2022\\GIT\\FirstProject\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\RestAPIcrudDEMO.csproj",
         "packagesPath": "C:\\Users\\DHARMENDRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DHARMENDRA\\source\\repos\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\obj\\",
+        "outputPath": "F:\\2022\\GIT\\FirstProject\\RestAPIcrudDEMO\\RestAPIcrudDEMO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DHARMENDRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
